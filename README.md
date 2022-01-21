@@ -1,6 +1,6 @@
-### Hi there! I'm Michelle Murphy (she/her) 👩‍💻
+# Hi there! I'm Michelle Murphy (she/her) 👩‍💻
 
-# I'm a computer science student at Carleton University, with a passion for software development.
+### I'm a computer science student at Carleton University, with a passion for software development.
 
 🔭 I’m currently working on: studying operating systems in C & assembly, software engineering in C++, web development in HTML/CSS/Javascript along with MongoDB for back-end. 
 
