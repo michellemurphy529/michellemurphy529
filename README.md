@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! I'm Michelle Murphy (she/her) 👩‍💻
 
-<!--
-**michellemurphy529/michellemurphy529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm a computer science student at Carleton University, with a passion for software development.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on: studying operating systems in C & assembly, software engineering in C++, web development in HTML/CSS/Javascript along with MongoDB for back-end. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently mastering my skills on: Algorithms in Java, systems programming in C and Machine Learning models using Python and Pytorch.
+
+💬 Ask me about: Being a participant in the AI4Good Lab and Datallite 📊 📡 a Machine learning platform that my AI4Good Lab group members built to close data gaps around the world. 🌎 
+
+💁‍♀️ My hobbies include: 
+  - Reading 📚 
+  - Puzzles 🧩 
+  - Playing GameBoy with some old school games 👾
+
+📫 How to reach me: Visit my website (link in bio) or Linkedin: https://www.linkedin.com/in/michellemurphy529/.
