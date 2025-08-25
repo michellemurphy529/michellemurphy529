@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Michelle
 
-## Software Dev & recent CS Grad passionate about applied AI and building impactful products. 💻
+## 💻 Software Dev & recent CS Grad passionate about applied AI and building impactful products. 🧑‍💻
 
 ### 🌱 My projects explore how AI can make software more useful, engaging, and practical. 🤖
 
